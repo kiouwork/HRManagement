@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSECode.iml" filepath="$PROJECT_DIR$/JavaSECode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05/chapter05.iml" filepath="$PROJECT_DIR$/chapter05/chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07/chapter07.iml" filepath="$PROJECT_DIR$/chapter07/chapter07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08_oop3/chapter08_oop3.iml" filepath="$PROJECT_DIR$/chapter08_oop3/chapter08_oop3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/chapter09.iml" filepath="$PROJECT_DIR$/chapter09/chapter09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/chapter10/chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11_api/chapter11_api.iml" filepath="$PROJECT_DIR$/chapter11_api/chapter11_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12_collection_map/chapter12_collection_map.iml" filepath="$PROJECT_DIR$/chapter12_collection_map/chapter12_collection_map.iml" />
+    </modules>
+  </component>
+</project>
