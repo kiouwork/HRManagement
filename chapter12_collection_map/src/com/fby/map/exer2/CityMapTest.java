@@ -22,7 +22,7 @@ public class CityMapTest {
         for(Object obj : provinces){
             System.out.print(obj + "\t\t");
         }
-
+        //数组存储城市
         String[] cities;
         System.out.println();
         Scanner scanner = new Scanner(System.in);
@@ -53,8 +53,6 @@ public class CityMapTest {
             }
             System.out.println("没有这个城市，请重新输入：");
         }
-//        map.get()
-
     }
 }
 class CityMap{
