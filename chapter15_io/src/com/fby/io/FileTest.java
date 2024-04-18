@@ -39,4 +39,17 @@ public class FileTest {
         System.out.println("size" + file.length());
         System.out.println("time" + file.lastModified());
     }
+    @Test
+    public void test3(){
+        File file1 = new File("D:\\Tools");
+        String[] listArr = file1.list();
+        for(String s : listArr){
+            System.out.println(s);
+        }
+        System.out.println();
+        File[] files = file1.listFiles();
+        for(File f : files){
+            System.out.println(f);
+        }
+    }
 }
